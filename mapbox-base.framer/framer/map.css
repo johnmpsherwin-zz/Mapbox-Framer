@@ -1,0 +1,8 @@
+.mapboxgl-canvas-container.mapboxgl-interactive,
+.mapboxgl-ctrl-nav-compass {
+    cursor: inherit;
+}
+.mapboxgl-canvas-container.mapboxgl-interactive:active,
+.mapboxgl-ctrl-nav-compass:active {
+    cursor: inherit;
+}
